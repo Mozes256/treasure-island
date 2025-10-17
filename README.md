@@ -1,2 +1,2 @@
 # treasure-island
-Run using in terminal (CL) with py installed.
+Run in terminal (CL) with py installed.
